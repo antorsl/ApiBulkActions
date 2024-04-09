@@ -1,0 +1,2 @@
+This nodejs script is designed to make API calls in order to perform some actions.
+This was developped in order to make bulk deletion of users based on one column CSV file by performing an API call on a internal Backstage instance using a session cookie.
